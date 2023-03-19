@@ -1,0 +1,3 @@
+User-agent : *
+Disallow: /Angulair.html
+Disallow: /Python.html
